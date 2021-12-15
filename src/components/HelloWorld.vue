@@ -34,10 +34,10 @@ defineProps({
   <br/>
   <p class="two">自分が開発した部分のPR：</p>
   <p class="explain">部内SNSサービスtraQのUserをGroupのメンバーに追加、修正、削除とメンバーを取得するAPIを作成しました。</p>
-  <a href="https://github.com/traPtitech/Jomon/pull/485">https://github.com/traPtitech/Jomon/pull/485</a>
+  <a href="https://github.com/traPtitech/Jomon/pull/443">https://github.com/traPtitech/Jomon/pull/443</a>
   <br/>
   <p class="explain">部費の申請書(Request)が発行、修正された時に部内SNSサービスtraQへ通知をする機能を開発しています。また、Requestを取得、追加、修正、削除をするAPIを開発しています。</p>
-  <a href="https://github.com/traPtitech/Jomon/pull/443">https://github.com/traPtitech/Jomon/pull/443</a>
+  <a href="https://github.com/traPtitech/Jomon/pull/485">https://github.com/traPtitech/Jomon/pull/485</a>
   
   <h3 class="three">Ⅲ. その他制作物</h3>
   <p class="inline">vueとgolangを用いてDB操作の練習をしました。</p>
